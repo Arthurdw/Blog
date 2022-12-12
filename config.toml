@@ -1,4 +1,4 @@
-baseURL = 'https://arthurdw.com/'
+baseURL = 'https://blog.arthurdw.com/'
 languageCode = 'en-us'
 title = 'Arthurdw | Blog'
 theme = 'terminal'
