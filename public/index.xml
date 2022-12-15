@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arthurdw | Blog</title>
+    <link>/</link>
+    <description>Recent content on Arthurdw | Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Arthurdw / Xiler</copyright>
+    <lastBuildDate>Mon, 12 Dec 2022 17:01:46 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to my blog!</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Mon, 12 Dec 2022 17:01:46 +0100</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>Welcome to my blog! Welcome to my blog, I&amp;rsquo;m Arthur De Witte, and I&amp;rsquo;m a student at HOWEST (University College West Flanders) in Brugges, Belgium. I&amp;rsquo;m currently studying for a bachelor in Computer Science, and I&amp;rsquo;m in my 2&amp;rsquo;nd year. I love learning and experimenting with new technologies.
+What can you expect here? I will be posting about my projects, my studies and other things I find interesting. As of writing this I&amp;rsquo;m mainly interested in the Rust programming language.</description>
+      <content>&lt;h1 id=&#34;welcome-to-my-blog&#34;&gt;Welcome to my blog!&lt;/h1&gt;
+&lt;p&gt;Welcome to my blog, I&amp;rsquo;m Arthur De Witte, and I&amp;rsquo;m a student at HOWEST (University College West Flanders) in Brugges,
+Belgium. I&amp;rsquo;m currently studying for a bachelor in Computer Science, and I&amp;rsquo;m in my 2&amp;rsquo;nd year. I love learning and
+experimenting with new technologies.&lt;/p&gt;
+&lt;h2 id=&#34;what-can-you-expect-here&#34;&gt;What can you expect here?&lt;/h2&gt;
+&lt;p&gt;I will be posting about my projects, my studies and other things I find interesting. As of writing this I&amp;rsquo;m mainly
+interested in the &lt;a href=&#34;https://www.rust-lang.org/&#34;&gt;Rust&lt;/a&gt; programming language. I&amp;rsquo;m also proficient
+in &lt;a href=&#34;https://www.python.org&#34;&gt;Python&lt;/a&gt;, &lt;a href=&#34;https://www.typescriptlang.org/&#34;&gt;TypeScript&lt;/a&gt; and &lt;a href=&#34;https://www.java.com/&#34;&gt;Java&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Besides from language specific posts, I&amp;rsquo;m greatly interested in building performant future-proof architectures.&lt;/p&gt;
+&lt;h2 id=&#34;is-this-blog-open-source&#34;&gt;Is this blog open source?&lt;/h2&gt;
+&lt;p&gt;Yes it is, it has been build with &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, and uses
+the &lt;a href=&#34;https://github.com/panr/hugo-theme-terminal&#34;&gt;Terminal Theme from Panr&lt;/a&gt;. The source code can be found
+on &lt;a href=&#34;https://github.com/Arthurdw/Blog&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
